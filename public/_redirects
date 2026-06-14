@@ -1,0 +1,5 @@
+# Dynamic Sitemap via Appwrite Function
+/sitemap.xml https://68fe5eb00026f625ad30.fra.appwrite.run/v1/functions/68fe5eaf003d9d0341dd/executions 200!
+
+# SPA fallback
+/*    /index.html   200

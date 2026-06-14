@@ -1,0 +1,14 @@
+{
+  "name": "dodo-payments-handler",
+  "version": "1.0.0",
+  "description": "Dodo Payments integration for SkyNeu subscriptions",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "node src/main.js"
+  },
+  "dependencies": {
+    "node-appwrite": "^13.0.0",
+    "node-fetch": "^2.7.0"
+  }
+}
+

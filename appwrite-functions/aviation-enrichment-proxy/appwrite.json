@@ -1,0 +1,9 @@
+{
+  "name": "aviation-enrichment-proxy",
+  "runtime": "node-18.0",
+  "entrypoint": "index.js",
+  "events": [],
+  "schedule": "",
+  "timeout": 30,
+  "vars": {}
+}

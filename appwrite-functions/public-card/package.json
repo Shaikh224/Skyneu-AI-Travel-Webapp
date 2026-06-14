@@ -1,0 +1,16 @@
+{
+  "name": "public-card-function",
+  "version": "1.0.1",
+  "description": "Appwrite function for public flight card sharing",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "node-appwrite": "^13.0.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

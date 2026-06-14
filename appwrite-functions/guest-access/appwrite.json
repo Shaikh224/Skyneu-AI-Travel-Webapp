@@ -1,0 +1,51 @@
+{
+  "name": "guest-access",
+  "runtime": "node-18.0",
+  "entrypoint": "index.js",
+  "execute": [
+    "users"
+  ],
+  "events": [],
+  "schedule": "",
+  "timeout": 15,
+  "enabled": true,
+  "logging": true,
+  "environmentVariables": [
+    {
+      "key": "APPWRITE_ENDPOINT",
+      "value": "https://cloud.appwrite.io/v1"
+    },
+    {
+      "key": "APPWRITE_PROJECT_ID",
+      "value": "YOUR_PROJECT_ID"
+    },
+    {
+      "key": "APPWRITE_API_KEY",
+      "value": "YOUR_API_KEY"
+    },
+    {
+      "key": "DATABASE_ID",
+      "value": "YOUR_DATABASE_ID"
+    },
+    {
+      "key": "TRIPS_COLLECTION_ID",
+      "value": "YOUR_TRIPS_COLLECTION_ID"
+    },
+    {
+      "key": "TRIP_MEMBERS_COLLECTION_ID",
+      "value": "YOUR_TRIP_MEMBERS_COLLECTION_ID"
+    },
+    {
+      "key": "ACTIVITIES_COLLECTION_ID",
+      "value": "YOUR_ACTIVITIES_COLLECTION_ID"
+    },
+    {
+      "key": "CHECKLIST_COLLECTION_ID",
+      "value": "YOUR_CHECKLIST_COLLECTION_ID"
+    },
+    {
+      "key": "EXPENSES_COLLECTION_ID",
+      "value": "YOUR_EXPENSES_COLLECTION_ID"
+    }
+  ]
+}

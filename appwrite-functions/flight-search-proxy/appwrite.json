@@ -1,0 +1,25 @@
+{
+  "projectId": "YOUR_APPWRITE_PROJECT_ID",
+  "projectName": "SkyNeu",
+  "functions": [
+    {
+      "functionId": "flight-search-proxy",
+      "name": "Flight Search Proxy",
+      "runtime": "node-18.0",
+      "path": ".",
+      "entrypoint": "index.js",
+      "execute": ["any"],
+      "events": [],
+      "schedule": "",
+      "timeout": 30,
+      "enabled": true,
+      "logging": true,
+      "variables": {
+        "AMADEUS_CLIENT_ID": "",
+        "AMADEUS_CLIENT_SECRET": "",
+        "AMADEUS_API_MODE": "test",
+        "ALLOWED_ORIGIN": "https://skyneu.com"
+      }
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "sitemap-generator",
+  "version": "1.0.0",
+  "description": "Dynamic sitemap generator for SkyNeu/AviHub",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@sanity/client": "^7.11.0",
+    "node-appwrite": "^13.0.0"
+  },
+  "devDependencies": {},
+  "author": "SkyNeu",
+  "license": "MIT"
+}

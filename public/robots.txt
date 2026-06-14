@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+
+# Disallow admin and private pages
+Disallow: /admin/
+Disallow: /api/
+Disallow: /private/
+
+# Allow and prioritize AviHub (free aviation content)
+Allow: /aviation-education
+Allow: /aviation-education/*
+
+# Sitemap location
+Sitemap: https://skyneu.com/sitemap.xml

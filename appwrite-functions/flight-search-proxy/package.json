@@ -1,0 +1,13 @@
+{
+  "name": "flight-search-proxy",
+  "version": "1.0.0",
+  "description": "Secure server-side proxy for Amadeus flight search API",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "node-appwrite": "^12.0.0"
+  }
+}

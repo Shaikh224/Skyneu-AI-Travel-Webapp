@@ -1,0 +1,742 @@
+{
+  "airlines": {
+    "6E": {
+      "name": "IndiGo",
+      "icao": "IGO",
+      "country": "India",
+      "logo": "http://img.wway.io/pics/root/6E@png?exar=1&rs=fit:200:200"
+    },
+    "AI": {
+      "name": "Air India",
+      "icao": "AIC",
+      "country": "India",
+      "logo": "http://img.wway.io/pics/root/AI@png?exar=1&rs=fit:200:200"
+    },
+    "SG": {
+      "name": "SpiceJet",
+      "icao": "SEJ",
+      "country": "India",
+      "logo": "http://img.wway.io/pics/root/SG@png?exar=1&rs=fit:200:200"
+    },
+    "IX": {
+      "name": "Air India Express",
+      "icao": "AXB",
+      "country": "India",
+      "logo": "http://img.wway.io/pics/root/IX@png?exar=1&rs=fit:200:200"
+    },
+    "UK": {
+      "name": "Vistara",
+      "icao": "VTI",
+      "country": "India",
+      "logo": "http://img.wway.io/pics/root/UK@png?exar=1&rs=fit:200:200"
+    },
+    "G8": {
+      "name": "GoAir",
+      "icao": "GOW",
+      "country": "India",
+      "logo": "http://img.wway.io/pics/root/G8@png?exar=1&rs=fit:200:200"
+    },
+    "9W": {
+      "name": "Jet Airways",
+      "icao": "JAI",
+      "country": "India",
+      "logo": "http://img.wway.io/pics/root/9W@png?exar=1&rs=fit:200:200"
+    },
+    "9I": {
+      "name": "Alliance Air",
+      "icao": "LLR",
+      "country": "India",
+      "logo": "http://img.wway.io/pics/root/9I@png?exar=1&rs=fit:200:200"
+    },
+    "I5": {
+      "name": "AirAsia India",
+      "icao": "IAD",
+      "country": "India",
+      "logo": "http://img.wway.io/pics/root/I5@png?exar=1&rs=fit:200:200"
+    },
+    "QP": {
+      "name": "Akasa Air",
+      "icao": "AKJ",
+      "country": "India",
+      "logo": "http://img.wway.io/pics/root/QP@png?exar=1&rs=fit:200:200"
+    },
+    "AA": {
+      "name": "American Airlines",
+      "icao": "AAL",
+      "country": "United States",
+      "logo": "http://img.wway.io/pics/root/AA@png?exar=1&rs=fit:200:200"
+    },
+    "UA": {
+      "name": "United Airlines",
+      "icao": "UAL",
+      "country": "United States",
+      "logo": "http://img.wway.io/pics/root/UA@png?exar=1&rs=fit:200:200"
+    },
+    "DL": {
+      "name": "Delta Air Lines",
+      "icao": "DAL",
+      "country": "United States",
+      "logo": "http://img.wway.io/pics/root/DL@png?exar=1&rs=fit:200:200"
+    },
+    "BA": {
+      "name": "British Airways",
+      "icao": "BAW",
+      "country": "United Kingdom",
+      "logo": "http://img.wway.io/pics/root/BA@png?exar=1&rs=fit:200:200"
+    },
+    "LH": {
+      "name": "Lufthansa",
+      "icao": "DLH",
+      "country": "Germany",
+      "logo": "http://img.wway.io/pics/root/LH@png?exar=1&rs=fit:200:200"
+    },
+    "AF": {
+      "name": "Air France",
+      "icao": "AFR",
+      "country": "France",
+      "logo": "http://img.wway.io/pics/root/AF@png?exar=1&rs=fit:200:200"
+    },
+    "KL": {
+      "name": "KLM",
+      "icao": "KLM",
+      "country": "Netherlands",
+      "logo": "http://img.wway.io/pics/root/KL@png?exar=1&rs=fit:200:200"
+    },
+    "EK": {
+      "name": "Emirates",
+      "icao": "UAE",
+      "country": "United Arab Emirates",
+      "logo": "http://img.wway.io/pics/root/EK@png?exar=1&rs=fit:200:200"
+    },
+    "QR": {
+      "name": "Qatar Airways",
+      "icao": "QTR",
+      "country": "Qatar",
+      "logo": "http://img.wway.io/pics/root/QR@png?exar=1&rs=fit:200:200"
+    },
+    "EY": {
+      "name": "Etihad Airways",
+      "icao": "ETD",
+      "country": "United Arab Emirates",
+      "logo": "http://img.wway.io/pics/root/EY@png?exar=1&rs=fit:200:200"
+    },
+    "TK": {
+      "name": "Turkish Airlines",
+      "icao": "THY",
+      "country": "Turkey",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Turkish_Airlines_logo.svg/200px-Turkish_Airlines_logo.svg.png"
+    },
+    "SQ": {
+      "name": "Singapore Airlines",
+      "icao": "SIA",
+      "country": "Singapore",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Singapore_Airlines_logo.svg/200px-Singapore_Airlines_logo.svg.png"
+    },
+    "CX": {
+      "name": "Cathay Pacific",
+      "icao": "CPA",
+      "country": "Hong Kong",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Cathay_Pacific_logo.svg/200px-Cathay_Pacific_logo.svg.png"
+    },
+    "NH": {
+      "name": "ANA",
+      "icao": "ANA",
+      "country": "Japan",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/ANA_logo.svg/200px-ANA_logo.svg.png"
+    },
+    "JL": {
+      "name": "Japan Airlines",
+      "icao": "JAL",
+      "country": "Japan",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Japan_Airlines_logo.svg/200px-Japan_Airlines_logo.svg.png"
+    },
+    "KE": {
+      "name": "Korean Air",
+      "icao": "KAL",
+      "country": "South Korea",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Korean_Air_logo.svg/200px-Korean_Air_logo.svg.png"
+    },
+    "CA": {
+      "name": "Air China",
+      "icao": "CCA",
+      "country": "China",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Air_China_logo.svg/200px-Air_China_logo.svg.png"
+    },
+    "MU": {
+      "name": "China Eastern",
+      "icao": "CES",
+      "country": "China",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/China_Eastern_logo.svg/200px-China_Eastern_logo.svg.png"
+    },
+    "CZ": {
+      "name": "China Southern",
+      "icao": "CSN",
+      "country": "China",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/China_Southern_logo.svg/200px-China_Southern_logo.svg.png"
+    },
+    "HU": {
+      "name": "Hainan Airlines",
+      "icao": "CHH",
+      "country": "China",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Hainan_Airlines_logo.svg/200px-Hainan_Airlines_logo.svg.png"
+    },
+    "MF": {
+      "name": "Xiamen Airlines",
+      "icao": "CXA",
+      "country": "China",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Xiamen_Airlines_logo.svg/200px-Xiamen_Airlines_logo.svg.png"
+    },
+    "3U": {
+      "name": "Sichuan Airlines",
+      "icao": "CSC",
+      "country": "China",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Sichuan_Airlines_logo.svg/200px-Sichuan_Airlines_logo.svg.png"
+    },
+    "GS": {
+      "name": "Tianjin Airlines",
+      "icao": "GCR",
+      "country": "China",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Tianjin_Airlines_logo.svg/200px-Tianjin_Airlines_logo.svg.png"
+    },
+    "PN": {
+      "name": "China West Air",
+      "icao": "CHB",
+      "country": "China",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/China_West_Air_logo.svg/200px-China_West_Air_logo.svg.png"
+    },
+    "KY": {
+      "name": "Kunming Airlines",
+      "icao": "KNA",
+      "country": "China",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Kunming_Airlines_logo.svg/200px-Kunming_Airlines_logo.svg.png"
+    },
+    "GJ": {
+      "name": "Loong Air",
+      "icao": "CDC",
+      "country": "China",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loong_Air_logo.svg/200px-Loong_Air_logo.svg.png"
+    },
+    "JD": {
+      "name": "Capital Airlines",
+      "icao": "CBJ",
+      "country": "China",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Capital_Airlines_logo.svg/200px-Capital_Airlines_logo.svg.png"
+    },
+    "HO": {
+      "name": "Juneyao Airlines",
+      "icao": "DKH",
+      "country": "China",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Juneyao_Airlines_logo.svg/200px-Juneyao_Airlines_logo.svg.png"
+    },
+    "9C": {
+      "name": "Spring Airlines",
+      "icao": "CQH",
+      "country": "China",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Spring_Airlines_logo.svg/200px-Spring_Airlines_logo.svg.png"
+    },
+    "BK": {
+      "name": "Okay Airways",
+      "icao": "OKA",
+      "country": "China",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Okay_Airways_logo.svg/200px-Okay_Airways_logo.svg.png"
+    },
+    "8L": {
+      "name": "Lucky Air",
+      "icao": "LKE",
+      "country": "China",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Lucky_Air_logo.svg/200px-Lucky_Air_logo.svg.png"
+    },
+    "FU": {
+      "name": "Fuzhou Airlines",
+      "icao": "FZA",
+      "country": "China",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fuzhou_Airlines_logo.svg/200px-Fuzhou_Airlines_logo.svg.png"
+    },
+    "DR": {
+      "name": "Ruili Airlines",
+      "icao": "RLH",
+      "country": "China",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Ruili_Airlines_logo.svg/200px-Ruili_Airlines_logo.svg.png"
+    },
+    "GT": {
+      "name": "Air Guilin",
+      "icao": "CGH",
+      "country": "China",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Air_Guilin_logo.svg/200px-Air_Guilin_logo.svg.png"
+    },
+    "UQ": {
+      "name": "Urumqi Air",
+      "icao": "CUH",
+      "country": "China",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Urumqi_Air_logo.svg/200px-Urumqi_Air_logo.svg.png"
+    },
+    "QW": {
+      "name": "Qingdao Airlines",
+      "icao": "QDA",
+      "country": "China",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Qingdao_Airlines_logo.svg/200px-Qingdao_Airlines_logo.svg.png"
+    },
+    "EU": {
+      "name": "Chengdu Airlines",
+      "icao": "UEA",
+      "country": "China",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Chengdu_Airlines_logo.svg/200px-Chengdu_Airlines_logo.svg.png"
+    },
+    "NS": {
+      "name": "Hebei Airlines",
+      "icao": "HBH",
+      "country": "China",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Hebei_Airlines_logo.svg/200px-Hebei_Airlines_logo.svg.png"
+    },
+    "KN": {
+      "name": "China United Airlines",
+      "icao": "CUA",
+      "country": "China",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/China_United_Airlines_logo.svg/200px-China_United_Airlines_logo.svg.png"
+    },
+    "TV": {
+      "name": "Tibet Airlines",
+      "icao": "TBA",
+      "country": "China",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Tibet_Airlines_logo.svg/200px-Tibet_Airlines_logo.svg.png"
+    },
+    "GX": {
+      "name": "GX Airlines",
+      "icao": "CBG",
+      "country": "China",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/GX_Airlines_logo.svg/200px-GX_Airlines_logo.svg.png"
+    },
+    "RY": {
+      "name": "Jiangxi Air",
+      "icao": "CJX",
+      "country": "China",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Jiangxi_Air_logo.svg/200px-Jiangxi_Air_logo.svg.png"
+    },
+    "LT": {
+      "name": "Longhao Airlines",
+      "icao": "LHA",
+      "country": "China",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Longhao_Airlines_logo.svg/200px-Longhao_Airlines_logo.svg.png"
+    },
+    "DZ": {
+      "name": "Donghai Airlines",
+      "icao": "EPA",
+      "country": "China",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Donghai_Airlines_logo.svg/200px-Donghai_Airlines_logo.svg.png"
+    },
+    "A6": {
+      "name": "Air Travel",
+      "icao": "ATR",
+      "country": "China",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Air_Travel_logo.svg/200px-Air_Travel_logo.svg.png"
+    },
+    "Y8": {
+      "name": "Yangtze River Express",
+      "icao": "YZR",
+      "country": "China",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Yangtze_River_Express_logo.svg/200px-Yangtze_River_Express_logo.svg.png"
+    },
+    "ZH": {
+      "name": "Shenzhen Airlines",
+      "icao": "CSZ",
+      "country": "China",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Shenzhen_Airlines_logo.svg/200px-Shenzhen_Airlines_logo.svg.png"
+    },
+    "SC": {
+      "name": "Shandong Airlines",
+      "icao": "CDG",
+      "country": "China",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Shandong_Airlines_logo.svg/200px-Shandong_Airlines_logo.svg.png"
+    },
+    "3Q": {
+      "name": "Yunnan Airlines",
+      "icao": "CYH",
+      "country": "China",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Yunnan_Airlines_logo.svg/200px-Yunnan_Airlines_logo.svg.png"
+    },
+    "8Y": {
+      "name": "China Postal Airlines",
+      "icao": "CYZ",
+      "country": "China",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/China_Postal_Airlines_logo.svg/200px-China_Postal_Airlines_logo.svg.png"
+    },
+    "FM": {
+      "name": "Shanghai Airlines",
+      "icao": "CSH",
+      "country": "China",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Shanghai_Airlines_logo.svg/200px-Shanghai_Airlines_logo.svg.png"
+    },
+    "IGO": {
+      "name": "IndiGo",
+      "iata": "6E",
+      "country": "India",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/IndiGo_logo.svg/200px-IndiGo_logo.svg.png"
+    },
+    "AIC": {
+      "name": "Air India",
+      "iata": "AI",
+      "country": "India",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Air_India_Logo.svg/200px-Air_India_Logo.svg.png"
+    },
+    "SEJ": {
+      "name": "SpiceJet",
+      "iata": "SG",
+      "country": "India",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/SpiceJet_logo.svg/200px-SpiceJet_logo.svg.png"
+    },
+    "AXB": {
+      "name": "Air India Express",
+      "iata": "IX",
+      "country": "India",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Air_India_Express_logo.svg/200px-Air_India_Express_logo.svg.png"
+    },
+    "VTI": {
+      "name": "Vistara",
+      "iata": "UK",
+      "country": "India",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Vistara_logo.svg/200px-Vistara_logo.svg.png"
+    },
+    "GOW": {
+      "name": "GoAir",
+      "iata": "G8",
+      "country": "India",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/GoAir_logo.svg/200px-GoAir_logo.svg.png"
+    },
+    "JAI": {
+      "name": "Jet Airways",
+      "iata": "9W",
+      "country": "India",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Jet_Airways_logo.svg/200px-Jet_Airways_logo.svg.png"
+    },
+    "LLR": {
+      "name": "Alliance Air",
+      "iata": "9I",
+      "country": "India",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Alliance_Air_logo.svg/200px-Alliance_Air_logo.svg.png"
+    },
+    "IAD": {
+      "name": "AirAsia India",
+      "iata": "I5",
+      "country": "India",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/AirAsia_logo.svg/200px-AirAsia_logo.svg.png"
+    },
+    "AKJ": {
+      "name": "Akasa Air",
+      "iata": "QP",
+      "country": "India",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Akasa_Air_logo.svg/200px-Akasa_Air_logo.svg.png"
+    },
+    "AAL": {
+      "name": "American Airlines",
+      "iata": "AA",
+      "country": "United States",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/American_Airlines_logo.svg/200px-American_Airlines_logo.svg.png"
+    },
+    "UAL": {
+      "name": "United Airlines",
+      "iata": "UA",
+      "country": "United States",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/United_Airlines_logo.svg/200px-United_Airlines_logo.svg.png"
+    },
+    "DAL": {
+      "name": "Delta Air Lines",
+      "iata": "DL",
+      "country": "United States",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Delta_Air_Lines_logo.svg/200px-Delta_Air_Lines_logo.svg.png"
+    },
+    "BAW": {
+      "name": "British Airways",
+      "iata": "BA",
+      "country": "United Kingdom",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/British_Airways_logo.svg/200px-British_Airways_logo.svg.png"
+    },
+    "DLH": {
+      "name": "Lufthansa",
+      "iata": "LH",
+      "country": "Germany",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Lufthansa_logo.svg/200px-Lufthansa_logo.svg.png"
+    },
+    "AFR": {
+      "name": "Air France",
+      "iata": "AF",
+      "country": "France",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Air_France_logo.svg/200px-Air_France_logo.svg.png"
+    },
+    "KLM": {
+      "name": "KLM",
+      "iata": "KL",
+      "country": "Netherlands",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/KLM_logo.svg/200px-KLM_logo.svg.png"
+    },
+    "UAE": {
+      "name": "Emirates",
+      "iata": "EK",
+      "country": "United Arab Emirates",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Emirates_logo.svg/200px-Emirates_logo.svg.png"
+    },
+    "QTR": {
+      "name": "Qatar Airways",
+      "iata": "QR",
+      "country": "Qatar",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Qatar_Airways_logo.svg/200px/Qatar_Airways_logo.svg.png"
+    },
+    "ETD": {
+      "name": "Etihad Airways",
+      "iata": "EY",
+      "country": "United Arab Emirates",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Etihad_Airways_logo.svg/200px-Etihad_Airways_logo.svg.png"
+    },
+    "THY": {
+      "name": "Turkish Airlines",
+      "iata": "TK",
+      "country": "Turkey",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Turkish_Airlines_logo.svg/200px-Turkish_Airlines_logo.svg.png"
+    },
+    "SIA": {
+      "name": "Singapore Airlines",
+      "iata": "SQ",
+      "country": "Singapore",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Singapore_Airlines_logo.svg/200px-Singapore_Airlines_logo.svg.png"
+    },
+    "CPA": {
+      "name": "Cathay Pacific",
+      "iata": "CX",
+      "country": "Hong Kong",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Cathay_Pacific_logo.svg/200px-Cathay_Pacific_logo.svg.png"
+    },
+    "ANA": {
+      "name": "ANA",
+      "iata": "NH",
+      "country": "Japan",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/ANA_logo.svg/200px-ANA_logo.svg.png"
+    },
+    "JAL": {
+      "name": "Japan Airlines",
+      "iata": "JL",
+      "country": "Japan",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Japan_Airlines_logo.svg/200px-Japan_Airlines_logo.svg.png"
+    },
+    "KAL": {
+      "name": "Korean Air",
+      "iata": "KE",
+      "country": "South Korea",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Korean_Air_logo.svg/200px-Korean_Air_logo.svg.png"
+    },
+    "CCA": {
+      "name": "Air China",
+      "iata": "CA",
+      "country": "China",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Air_China_logo.svg/200px-Air_China_logo.svg.png"
+    },
+    "CES": {
+      "name": "China Eastern",
+      "iata": "MU",
+      "country": "China",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/China_Eastern_logo.svg/200px-China_Eastern_logo.svg.png"
+    },
+    "CSN": {
+      "name": "China Southern",
+      "iata": "CZ",
+      "country": "China",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/China_Southern_logo.svg/200px-China_Southern_logo.svg.png"
+    },
+    "CHH": {
+      "name": "Hainan Airlines",
+      "iata": "HU",
+      "country": "China",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Hainan_Airlines_logo.svg/200px-Hainan_Airlines_logo.svg.png"
+    },
+    "CXA": {
+      "name": "Xiamen Airlines",
+      "iata": "MF",
+      "country": "China",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Xiamen_Airlines_logo.svg/200px-Xiamen_Airlines_logo.svg.png"
+    },
+    "CSC": {
+      "name": "Sichuan Airlines",
+      "iata": "3U",
+      "country": "China",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Sichuan_Airlines_logo.svg/200px-Sichuan_Airlines_logo.svg.png"
+    },
+    "GCR": {
+      "name": "Tianjin Airlines",
+      "iata": "GS",
+      "country": "China",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Tianjin_Airlines_logo.svg/200px-Tianjin_Airlines_logo.svg.png"
+    },
+    "CHB": {
+      "name": "China West Air",
+      "iata": "PN",
+      "country": "China",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/China_West_Air_logo.svg/200px-China_West_Air_logo.svg.png"
+    },
+    "KNA": {
+      "name": "Kunming Airlines",
+      "iata": "KY",
+      "country": "China",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Kunming_Airlines_logo.svg/200px-Kunming_Airlines_logo.svg.png"
+    },
+    "CDC": {
+      "name": "Loong Air",
+      "iata": "GJ",
+      "country": "China",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loong_Air_logo.svg/200px-Loong_Air_logo.svg.png"
+    },
+    "CBJ": {
+      "name": "Capital Airlines",
+      "iata": "JD",
+      "country": "China",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Capital_Airlines_logo.svg/200px-Capital_Airlines_logo.svg.png"
+    },
+    "DKH": {
+      "name": "Juneyao Airlines",
+      "iata": "HO",
+      "country": "China",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Juneyao_Airlines_logo.svg/200px-Juneyao_Airlines_logo.svg.png"
+    },
+    "CQH": {
+      "name": "Spring Airlines",
+      "iata": "9C",
+      "country": "China",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Spring_Airlines_logo.svg/200px-Spring_Airlines_logo.svg.png"
+    },
+    "OKA": {
+      "name": "Okay Airways",
+      "iata": "BK",
+      "country": "China",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Okay_Airways_logo.svg/200px-Okay_Airways_logo.svg.png"
+    },
+    "LKE": {
+      "name": "Lucky Air",
+      "iata": "8L",
+      "country": "China",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Lucky_Air_logo.svg/200px-Lucky_Air_logo.svg.png"
+    },
+    "FZA": {
+      "name": "Fuzhou Airlines",
+      "iata": "FU",
+      "country": "China",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fuzhou_Airlines_logo.svg/200px-Fuzhou_Airlines_logo.svg.png"
+    },
+    "RLH": {
+      "name": "Ruili Airlines",
+      "iata": "DR",
+      "country": "China",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Ruili_Airlines_logo.svg/200px-Ruili_Airlines_logo.svg.png"
+    },
+    "CGH": {
+      "name": "Air Guilin",
+      "iata": "GT",
+      "country": "China",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Air_Guilin_logo.svg/200px-Air_Guilin_logo.svg.png"
+    },
+    "CUH": {
+      "name": "Urumqi Air",
+      "iata": "UQ",
+      "country": "China",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Urumqi_Air_logo.svg/200px-Urumqi_Air_logo.svg.png"
+    },
+    "QDA": {
+      "name": "Qingdao Airlines",
+      "iata": "QW",
+      "country": "China",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Qingdao_Airlines_logo.svg/200px-Qingdao_Airlines_logo.svg.png"
+    },
+    "UEA": {
+      "name": "Chengdu Airlines",
+      "iata": "EU",
+      "country": "China",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Chengdu_Airlines_logo.svg/200px-Chengdu_Airlines_logo.svg.png"
+    },
+    "HBH": {
+      "name": "Hebei Airlines",
+      "iata": "NS",
+      "country": "China",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Hebei_Airlines_logo.svg/200px-Hebei_Airlines_logo.svg.png"
+    },
+    "CUA": {
+      "name": "China United Airlines",
+      "iata": "KN",
+      "country": "China",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/China_United_Airlines_logo.svg/200px-China_United_Airlines_logo.svg.png"
+    },
+    "TBA": {
+      "name": "Tibet Airlines",
+      "iata": "TV",
+      "country": "China",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Tibet_Airlines_logo.svg/200px-Tibet_Airlines_logo.svg.png"
+    },
+    "CBG": {
+      "name": "GX Airlines",
+      "iata": "GX",
+      "country": "China",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/GX_Airlines_logo.svg/200px-GX_Airlines_logo.svg.png"
+    },
+    "CJX": {
+      "name": "Jiangxi Air",
+      "iata": "RY",
+      "country": "China",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Jiangxi_Air_logo.svg/200px-Jiangxi_Air_logo.svg.png"
+    },
+    "LHA": {
+      "name": "Longhao Airlines",
+      "iata": "LT",
+      "country": "China",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Longhao_Airlines_logo.svg/200px-Longhao_Airlines_logo.svg.png"
+    },
+    "EPA": {
+      "name": "Donghai Airlines",
+      "iata": "DZ",
+      "country": "China",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Donghai_Airlines_logo.svg/200px-Donghai_Airlines_logo.svg.png"
+    },
+    "ATR": {
+      "name": "Air Travel",
+      "iata": "A6",
+      "country": "China",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Air_Travel_logo.svg/200px-Air_Travel_logo.svg.png"
+    },
+    "YZR": {
+      "name": "Yangtze River Express",
+      "iata": "Y8",
+      "country": "China",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Yangtze_River_Express_logo.svg/200px-Yangtze_River_Express_logo.svg.png"
+    },
+    "CSZ": {
+      "name": "Shenzhen Airlines",
+      "iata": "ZH",
+      "country": "China",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Shenzhen_Airlines_logo.svg/200px-Shenzhen_Airlines_logo.svg.png"
+    },
+    "CDG": {
+      "name": "Shandong Airlines",
+      "iata": "SC",
+      "country": "China",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Shandong_Airlines_logo.svg/200px-Shandong_Airlines_logo.svg.png"
+    },
+    "CYH": {
+      "name": "Yunnan Airlines",
+      "iata": "3Q",
+      "country": "China",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Yunnan_Airlines_logo.svg/200px-Yunnan_Airlines_logo.svg.png"
+    },
+    "CYZ": {
+      "name": "China Postal Airlines",
+      "iata": "8Y",
+      "country": "China",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/China_Postal_Airlines_logo.svg/200px-China_Postal_Airlines_logo.svg.png"
+    },
+    "CSH": {
+      "name": "Shanghai Airlines",
+      "iata": "FM",
+      "country": "China",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Shanghai_Airlines_logo.svg/200px-Shanghai_Airlines_logo.svg.png"
+    },
+    "XY": {
+      "name": "Flynas",
+      "icao": "KNE",
+      "country": "Saudi Arabia",
+      "logo": "http://img.wway.io/pics/root/XY@png?exar=1&rs=fit:200:200"
+    }
+  }
+}

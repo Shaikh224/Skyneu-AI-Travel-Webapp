@@ -1,0 +1,112 @@
+/* Leaflet Map Customizations */
+
+/* Fix marker display issues */
+.leaflet-container {
+  font-family: inherit !important;
+}
+
+.leaflet-popup-content-wrapper {
+  border-radius: 8px !important;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15) !important;
+}
+
+.leaflet-popup-content {
+  margin: 0 !important;
+  line-height: 1.4 !important;
+}
+
+.leaflet-popup-tip {
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1) !important;
+}
+
+/* Custom marker styles */
+.custom-marker {
+  background: transparent !important;
+  border: none !important;
+}
+
+/* Control styling */
+.leaflet-control-zoom {
+  border-radius: 8px !important;
+  overflow: hidden !important;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15) !important;
+}
+
+.leaflet-control-zoom a {
+  border-radius: 0 !important;
+  font-size: 18px !important;
+  line-height: 30px !important;
+  text-decoration: none !important;
+}
+
+.leaflet-control-zoom a:hover {
+  background-color: #f3f4f6 !important;
+}
+
+/* Attribution styling */
+.leaflet-control-attribution {
+  background: rgba(255, 255, 255, 0.8) !important;
+  backdrop-filter: blur(4px) !important;
+  border-radius: 4px !important;
+  font-size: 10px !important;
+}
+
+/* Dark mode support */
+.dark .leaflet-control-zoom a {
+  background-color: #374151 !important;
+  color: #f9fafb !important;
+  border-color: #4b5563 !important;
+}
+
+.dark .leaflet-control-zoom a:hover {
+  background-color: #4b5563 !important;
+}
+
+.dark .leaflet-control-attribution {
+  background: rgba(55, 65, 81, 0.8) !important;
+  color: #f9fafb !important;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .leaflet-control-zoom {
+    margin-top: 10px !important;
+    margin-right: 10px !important;
+  }
+  
+  .leaflet-control-attribution {
+    font-size: 8px !important;
+  }
+}
+
+/* Custom overlay positioning */
+.map-overlay {
+  z-index: 1000 !important;
+  pointer-events: auto !important;
+}
+
+/* Ensure polylines are visible */
+.leaflet-overlay-pane svg {
+  pointer-events: auto !important;
+}
+
+/* Fix for mobile touch */
+.leaflet-container {
+  -webkit-tap-highlight-color: transparent !important;
+}
+
+/* Loading state */
+.leaflet-container.loading {
+  background: linear-gradient(45deg, #f3f4f6, #e5e7eb) !important;
+  background-size: 20px 20px !important;
+  animation: loading-shimmer 1.5s infinite linear !important;
+}
+
+@keyframes loading-shimmer {
+  0% {
+    background-position: 0 0, 0 0;
+  }
+  100% {
+    background-position: 20px 20px, 20px 20px;
+  }
+}

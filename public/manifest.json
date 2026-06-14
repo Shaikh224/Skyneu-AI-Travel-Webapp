@@ -1,0 +1,29 @@
+{
+  "name": "SkyNeu - AI-Powered Travel & Aviation Platform",
+  "short_name": "SkyNeu",
+  "description": "Search flights, plan trips, discover places, track flights, and explore aviation with AI-powered insights",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#118DFF",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/img/skin3.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/img/skin3.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["travel", "navigation", "lifestyle"],
+  "lang": "en-US",
+  "dir": "ltr",
+  "scope": "/",
+  "prefer_related_applications": false
+}

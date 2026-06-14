@@ -1,0 +1,15 @@
+{
+  "name": "perplexity-search",
+  "version": "1.0.0",
+  "description": "Appwrite function to proxy Perplexity Search API calls",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "node-appwrite": "^13.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0"
+  }
+}

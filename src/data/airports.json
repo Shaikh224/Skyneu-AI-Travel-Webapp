@@ -1,0 +1,124 @@
+{
+  "airports": {
+    "DEL": {
+      "name": "Indira Gandhi International Airport",
+      "iata": "DEL",
+      "icao": "VIDP",
+      "city": "Delhi",
+      "country": "India",
+      "timezone": "Asia/Kolkata"
+    },
+    "BOM": {
+      "name": "Chhatrapati Shivaji Maharaj International Airport",
+      "iata": "BOM",
+      "icao": "VABB",
+      "city": "Mumbai",
+      "country": "India",
+      "timezone": "Asia/Kolkata"
+    },
+    "CCU": {
+      "name": "Netaji Subhas Chandra Bose International Airport",
+      "iata": "CCU",
+      "icao": "VECC",
+      "city": "Kolkata",
+      "country": "India",
+      "timezone": "Asia/Kolkata"
+    },
+    "BLR": {
+      "name": "Kempegowda International Airport",
+      "iata": "BLR",
+      "icao": "VOBL",
+      "city": "Bangalore",
+      "country": "India",
+      "timezone": "Asia/Kolkata"
+    },
+    "MAA": {
+      "name": "Chennai International Airport",
+      "iata": "MAA",
+      "icao": "VOMM",
+      "city": "Chennai",
+      "country": "India",
+      "timezone": "Asia/Kolkata"
+    },
+    "HYD": {
+      "name": "Rajiv Gandhi International Airport",
+      "iata": "HYD",
+      "icao": "VOHS",
+      "city": "Hyderabad",
+      "country": "India",
+      "timezone": "Asia/Kolkata"
+    },
+    "DMM": {
+      "name": "King Fahd International Airport",
+      "iata": "DMM",
+      "icao": "OEDF",
+      "city": "Dammam",
+      "country": "Saudi Arabia",
+      "timezone": "Asia/Riyadh"
+    },
+    "JED": {
+      "name": "King Abdulaziz International Airport",
+      "iata": "JED",
+      "icao": "OEJN",
+      "city": "Jeddah",
+      "country": "Saudi Arabia",
+      "timezone": "Asia/Riyadh"
+    },
+    "RUH": {
+      "name": "King Khalid International Airport",
+      "iata": "RUH",
+      "icao": "OERK",
+      "city": "Riyadh",
+      "country": "Saudi Arabia",
+      "timezone": "Asia/Riyadh"
+    },
+    "LHR": {
+      "name": "London Heathrow Airport",
+      "iata": "LHR",
+      "icao": "EGLL",
+      "city": "London",
+      "country": "United Kingdom",
+      "timezone": "Europe/London"
+    },
+    "JFK": {
+      "name": "John F. Kennedy International Airport",
+      "iata": "JFK",
+      "icao": "KJFK",
+      "city": "New York",
+      "country": "United States",
+      "timezone": "America/New_York"
+    },
+    "LAX": {
+      "name": "Los Angeles International Airport",
+      "iata": "LAX",
+      "icao": "KLAX",
+      "city": "Los Angeles",
+      "country": "United States",
+      "timezone": "America/Los_Angeles"
+    },
+    "DXB": {
+      "name": "Dubai International Airport",
+      "iata": "DXB",
+      "icao": "OMDB",
+      "city": "Dubai",
+      "country": "United Arab Emirates",
+      "timezone": "Asia/Dubai"
+    },
+    "SIN": {
+      "name": "Singapore Changi Airport",
+      "iata": "SIN",
+      "icao": "WSSS",
+      "city": "Singapore",
+      "country": "Singapore",
+      "timezone": "Asia/Singapore"
+    },
+    "HKG": {
+      "name": "Hong Kong International Airport",
+      "iata": "HKG",
+      "icao": "VHHH",
+      "city": "Hong Kong",
+      "country": "China",
+      "timezone": "Asia/Hong_Kong"
+    }
+  }
+}
